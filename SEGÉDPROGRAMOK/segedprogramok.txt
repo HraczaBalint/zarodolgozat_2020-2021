@@ -1,0 +1,9 @@
+Név: 			XAMPP
+Verzió: 		8.0.3
+Letöltése hely: 	https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.3/
+
+
+Név:			Google Chrome
+Verzió:			90.0.4430.72
+Letöltési hely:		https://www.google.com/chrome/
+
